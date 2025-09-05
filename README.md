@@ -20,7 +20,7 @@ Before starting, ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone -b stylus-uniswap https://github.com/abhi152003/speedrun_stylus.git
+git  clone -b stylus-uniswap https://github.com/abhi152003/speedrun_stylus.git
 cd speedrun_stylus
 yarn install
 ```
@@ -339,5 +339,6 @@ smart-cache add 0xYourContractAddress \
 For more in-depth details and the latest updates, visit the [smart-cache-cli package on npmjs.com](https://www.npmjs.com/package/smart-cache-cli).
 
 ---
+
 
 > 🏃 Head to your next challenge [here](https://speedrunstylus.com/challenge/zkp-age).
